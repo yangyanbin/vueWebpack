@@ -1,2 +1,2 @@
 # vueWebpack
-vue+webpack deom
+vue+webpack simple demo
